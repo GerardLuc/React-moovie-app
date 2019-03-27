@@ -1,7 +1,7 @@
-const TRAKT_API_KEY = "Your Trakt api key";
-const OMDB_API_KEY = "Your OMDB api key";
+const TRAKT_API_KEY = "1c6d24b4cb72408a79187d0b07480750c1d45f9bf61a7f8f95f788d56955c9b6";
+const OMDB_API_KEY = "aa91815a";
 
-const OMDB_API_URI = "http://www.omdbapi.com/"; // ex : http://www.omdbapi.com/?i=tt3896198&apikey=a3544
+const OMDB_API_URI = "http://www.omdbapi.com/"; 
 const TRAKT_API_BOXOFFICE = "https://api.trakt.tv/movies/boxoffice";
 const TRAKT_API_POPULAR = "https://api.trakt.tv/movies/popular";
 

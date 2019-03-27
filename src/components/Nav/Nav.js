@@ -6,7 +6,7 @@ import styled from '@emotion/styled'
 
 var white = "#FFFFFF";
 var black = "#2D2D2D";
-var red = "#C03A2B";
+var cyan = "#15c0c1";
 
 const TextLink = styled.h2`
     text-decoration:none;
@@ -14,7 +14,7 @@ const TextLink = styled.h2`
     font-size: 2em;
     color: ${white};
     :hover {
-      color: ${red};
+      color: ${cyan};
     }
 `
 

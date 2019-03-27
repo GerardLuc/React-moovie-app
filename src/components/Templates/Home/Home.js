@@ -5,10 +5,10 @@ import styled from '@emotion/styled'
 
 var white = "#FFFFFF";
 var black = "#2D2D2D";
-var red = "#C03A2B";
+var cyan = "#15c0c1";
 
 const TextTitle = styled.h2`
-  color: ${red};
+  color: ${cyan};
   font-family: NetflixBold;
   font-size: 64px;
 `
