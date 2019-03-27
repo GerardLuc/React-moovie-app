@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 import styled from '@emotion/styled'
 
 var white = "#FFFFFF";
-var black = "#2D2D2D";
-var red = "#C03A2B";
-var blue = '#014CB7';
+// var black = "#2D2D2D";
+// var red = "#C03A2B";
+// var blue = '#014CB7';
 
 const CardContainer = styled.div`
   min-height: 500px;

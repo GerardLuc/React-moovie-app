@@ -1,6 +1,6 @@
 # Movie App 🎥
 
-A Web Application made in React and CSS-in-JS  ([emotion](https://github.com/emotion-js/emotion)) for fun 🍿🍿🍿.
+A Web Application made in React and CSS-in-JS  ([emotion](https://github.com/emotion-js/emotion)) for exercise.
 
 Functionality: Get data from Trakt api and Omdb api. Lists of Like and Watched movie. You can also check component to the [Storybook App](https://github.com/storybooks/storybook)
 
@@ -25,7 +25,7 @@ How to specify the API Keys? Go to the website of those services and ask for one
 These instructions can be followed to run Movie App from a Bash terminal:
 
 ``` bash
-git clone https://gitlab.com/Agillmann/react-movie-app.git
+git clone https://gitlab.eemi.tech/luc.gerard/react-movie-app
 cd movie-app
 ```
 
@@ -50,6 +50,10 @@ yarn run storybook
 ```
 
 And then you can access the Web App by opening http://localhost:3000 on your web browser and acces the [Storybook App](http://localhost:9009).
+
+# Author
+
+Luc Gerard - [Gitlab] (https://gitlab.eemi.tech/luc.gerard/)
 
 # Credits
 

@@ -22,6 +22,7 @@ const TextButton = styled.span`
   font-size: 24px;
 
 `
+// eslint-disable-next-line
 const ButtonInfo = ({}) => (
   <div className="button-info">
     <Button>

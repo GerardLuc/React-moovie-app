@@ -4,7 +4,7 @@ import Nav from '../../Nav/NavContainer';
 import styled from '@emotion/styled'
 
 var white = "#FFFFFF";
-var black = "#2D2D2D";
+// var black = "#2D2D2D";
 var cyan = "#15c0c1";
 
 const TextTitle = styled.h2`
@@ -15,6 +15,7 @@ const TextTitle = styled.h2`
 const HomeContainer = styled.div`
   background-color:${white};
 `
+
 
 const Home = ({handleClick, dataPopular, dataBoxOffice}) => (
   <HomeContainer className="home">
